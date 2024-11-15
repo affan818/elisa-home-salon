@@ -1,0 +1,12 @@
+/* In your global stylesheet or Tailwind config */
+.bg-soft-cream {
+  background-color: #f7f0e1; /* Soft Cream */
+}
+
+.text-navy-blue {
+  color: #003366; /* Navy Blue */
+}
+
+.text-coral {
+  color: #ff7f50; /* Coral */
+}

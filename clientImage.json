@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "src": "https://images.pexels.com/photos/18355610/pexels-photo-18355610/free-photo-of-a-hindu-bride-wearing-a-traditional-outfit-and-henna-tattoos.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 1"
+  },
+  {
+    "id": 2,
+    "src": "https://images.pexels.com/photos/18355610/pexels-photo-18355610/free-photo-of-a-hindu-bride-wearing-a-traditional-outfit-and-henna-tattoos.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 2"
+  },
+  {
+    "id": 3,
+    "src": "https://images.pexels.com/photos/14826512/pexels-photo-14826512.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 3"
+  },
+  {
+    "id": 4,
+    "src": "https://images.pexels.com/photos/15026766/pexels-photo-15026766/free-photo-of-smiling-brunette-bride.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 4"
+  },
+  {
+    "id": 5,
+    "src": "https://images.pexels.com/photos/25655887/pexels-photo-25655887/free-photo-of-portrait-of-woman-with-golden-jewelry-and-in-traditional-clothing.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 5"
+  },
+  {
+    "id": 6,
+    "src": "https://images.pexels.com/photos/28074155/pexels-photo-28074155/free-photo-of-portrait-of-bride-with-veil.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 6"
+  },
+  {
+    "id": 7,
+    "src": "https://images.pexels.com/photos/26857448/pexels-photo-26857448/free-photo-of-portrait-of-bride-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 7"
+  },
+  {
+    "id": 8,
+    "src": "https://images.pexels.com/photos/13177418/pexels-photo-13177418.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "alt": "Client 8"
+  }
+]
