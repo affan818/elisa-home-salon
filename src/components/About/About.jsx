@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import AnimatedHeader from "../AnimatedHeader.jsx/AnimatedHeader";
+import AnimatedHeader from "../AnimatedHeader/AnimatedHeader.jsx";
 // import "./about.css";
 
 export default function About() {

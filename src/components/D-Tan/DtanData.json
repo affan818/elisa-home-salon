@@ -1,0 +1,37 @@
+[
+  {
+    "service": "Underarms D-Tan",
+    "description": "For tan free underarms",
+    "rate": 149
+  },
+  {
+    "service": "Full Arms D-Tan",
+    "description": "Effectively removes tanning.",
+    "rate": 399
+  },
+  {
+    "service": "Face + Neck D-Tan",
+    "description": "Reduces melanin production",
+    "rate": 299
+  },
+  {
+    "service": "Full Legs D-Tan",
+    "description": "Whitens, brightens, and lightens the skin",
+    "rate": 499
+  },
+  {
+    "service": "Full Front D-Tan",
+    "description": "An antidote to tanned, dull & flaky skin",
+    "rate": 349
+  },
+  {
+    "service": "Full Back D-Tan",
+    "description": "Removes dead skin cells and reduces dark spots",
+    "rate": 349
+  },
+  {
+    "service": "Full Body D-Tan",
+    "description": "Improves skin texture.",
+    "rate": 1499
+  }
+]

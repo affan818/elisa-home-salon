@@ -1,58 +1,100 @@
 [
   {
     "id": 1,
-    "name": "Chocolate Wax"
+    "name": "Chocolate Wax",
+    "alt": "chocolate_wax",
+    "img": "https://images.pexels.com/photos/6763116/pexels-photo-6763116.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "chocolate_wax"
   },
   {
     "id": 2,
-    "name": "Rica Wax"
+    "name": "Rica Wax",
+    "alt": "Rica wax",
+    "img": "https://images.pexels.com/photos/18243182/pexels-photo-18243182/free-photo-of-candle-burning-on-a-shoulder-of-a-young-shirtless-woman.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "rica_Wax"
   },
   {
     "id": 3,
-    "name": "Facials"
+    "name": "Facials",
+    "alt": "Facials",
+    "img": "https://images.pexels.com/photos/21316248/pexels-photo-21316248/free-photo-of-woman-with-eyes-closed-and-mask-on-face-for-skin-care.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "facials"
   },
   {
     "id": 4,
-    "name": "D tan"
+    "name": "D tan",
+    "alt": "d-tan",
+    "img": "https://femina.wwmindia.com/content/2022/mar/d-tan11646649694.jpg",
+    "page": "d-Tan"
   },
   {
     "id": 5,
-    "name": "Bleach"
+    "name": "Bleach",
+    "alt": "bleach",
+    "img": "https://www.ashleespa.com/assets/images/service/hair-beauty/women/bleach.webp",
+    "page": "bleach"
   },
   {
     "id": 6,
-    "name": "Massage"
+    "name": "Massage",
+    "alt": "massage",
+    "img": "https://images.pexels.com/photos/19641807/pexels-photo-19641807/free-photo-of-massage-therapist-pouring-oil-on-a-womans-back.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "massage"
   },
   {
     "id": 7,
-    "name": "Clean Up"
+    "name": "Clean Up",
+    "alt": "cleanup",
+    "img": "https://images.herzindagi.info/image/2021/Mar/fruits-for-skin.jpg",
+    "page": "clean-up"
   },
   {
     "id": 8,
-    "name": "Manicure"
+    "name": "Manicure",
+    "alt": "manicure",
+    "img": "https://images.pexels.com/photos/7446921/pexels-photo-7446921.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "manicure"
   },
   {
     "id": 8,
-    "name": "Pedicure"
+    "name": "Pedicure",
+    "alt": "pedicure",
+    "img": "https://images.pexels.com/photos/6663566/pexels-photo-6663566.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "padicure"
   },
   {
     "id": 9,
-    "name": "Hair cut and Trimming"
+    "name": "Hair cut and Trimming",
+    "alt": "hair_cut",
+    "img": "https://images.pexels.com/photos/7755239/pexels-photo-7755239.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "hair_cut_trimming"
   },
   {
     "id": 10,
-    "name": "Hair Care Styling"
+    "name": "Hair Care Styling",
+    "alt": "hair_care",
+    "img": "https://images.pexels.com/photos/8467963/pexels-photo-8467963.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "hair_care"
   },
   {
     "id": 11,
-    "name": "Hair Spa Treatment"
+    "name": "Hair Spa Treatment",
+    "alt": "hair_spa",
+    "img": "https://images.pexels.com/photos/7755447/pexels-photo-7755447.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "hair_spa"
   },
   {
     "id": 12,
-    "name": "Hair Color"
+    "name": "Hair Color",
+    "alt": "hair_color",
+    "img": "https://images.pexels.com/photos/8468125/pexels-photo-8468125.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "hair_color"
   },
   {
     "id": 13,
-    "name": "Make up"
+    "name": "Make up",
+    "alt": "makeup",
+    "img": "https://images.pexels.com/photos/458766/pexels-photo-458766.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "page": "make_up"
   }
 ]

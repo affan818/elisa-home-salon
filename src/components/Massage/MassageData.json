@@ -1,0 +1,32 @@
+[
+  {
+    "service": "Face Massage",
+    "description": "Help increase blood flow",
+    "rate": 299
+  },
+  {
+    "service": "Head Massage",
+    "description": "Helps reduce stress and tension",
+    "rate": 299
+  },
+  {
+    "service": "Head + Shoulder Massage",
+    "description": "Lower blood pressure, improve circulation to your head",
+    "rate": 299
+  },
+  {
+    "service": "Foot Massage + Leg Massage",
+    "description": "Re-energize tired and aching legs",
+    "rate": 499
+  },
+  {
+    "service": "Back Massage + Shoulder Massage",
+    "description": "Improves flexibility and range of motion",
+    "rate": 399
+  },
+  {
+    "service": "Full Body Massage + Head Massage",
+    "description": "Helpful for a range of conditions",
+    "rate": 1199
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "service": "Regular Pedicure",
+    "description": "A warm foot soak and a foot scrubbing with either a pumice stone or foot file followed by clipping of the nails, shaping of the nails, your cuticles being pushed back, a short foot and calf massage, moisturizer and nail polish",
+    "rate": 99
+  },
+  {
+    "service": "VLCC Pedicure",
+    "description": "A complete regimen that includes exfoliation, cuticle care, nail shaping, and moisturization.",
+    "rate": 399
+  },
+  {
+    "service": "Deluxe Pedicure",
+    "description": "A wonderfully indulgent pedicure including Epsom salts, a hydrating foot mask and your chosen color of gel varnish or polish.",
+    "rate": 499
+  },
+  {
+    "service": "D-Tan Pedicure",
+    "description": "Effectively helps in removing tan from your hands and feet, restoring their natural skin tone.",
+    "rate": 599
+  },
+  {
+    "service": "Anti-Tan Pedicure",
+    "description": "Remove dirt, impurities & dead skin cells",
+    "rate": 699
+  }
+]

@@ -1,5 +1,5 @@
 import React from "react";
-import AnimatedHeader from "../AnimatedHeader.jsx/AnimatedHeader";
+import AnimatedHeader from "../AnimatedHeader/AnimatedHeader.jsx";
 import ContactForm from "../contactform/Contactfrom";
 const Contact = () => {
   return (

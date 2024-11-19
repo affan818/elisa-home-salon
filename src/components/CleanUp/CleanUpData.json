@@ -1,0 +1,22 @@
+[
+  {
+    "service": "Fruit Clean-Up",
+    "description": "Targets deep cleansing your skin",
+    "rate": 499
+  },
+  {
+    "service": "Sara Clean-Up",
+    "description": "Deeply cleanse your pores",
+    "rate": 549
+  },
+  {
+    "service": "VLCC Insta Glow Clean-Up",
+    "description": "Gives your skin a natural glow.",
+    "rate": 499
+  },
+  {
+    "service": "VLCC Clean-Up",
+    "description": "Polishes and detoxifies the skin",
+    "rate": 499
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "service": "Upperlip Chocolate Wax",
+    "description": "Long-lasting method for removing unwanted facial hair",
+    "rate": 49
+  },
+  {
+    "service": "Underarms Chocolate Wax",
+    "description": "Gentle on the skin",
+    "rate": 149
+  },
+  {
+    "service": "Full Face Chocolate Wax",
+    "description": "Pain-free and moisturizes the skin at the same time.",
+    "rate": 249
+  },
+  {
+    "service": "Full Hands Chocolate Wax",
+    "description": "Enriched with a blend of herbal extracts",
+    "rate": 299
+  },
+  {
+    "service": "Full Legs Chocolate Wax",
+    "description": "Skin friendly and does not cause swelling",
+    "rate": 299
+  },
+  {
+    "service": "Full Front Chocolate Wax",
+    "description": "Calming and less painful",
+    "rate": 299
+  },
+  {
+    "service": "Full Back Chocolate Wax",
+    "description": "Guarantees silky smooth, hairless back",
+    "rate": 349
+  },
+  {
+    "service": "Half Hand Chocolate Wax",
+    "description": "Easy and non-sticky.",
+    "rate": 149
+  },
+  {
+    "service": "Half Leg Chocolate Wax",
+    "description": "Soft Wax For legs",
+    "rate": 249
+  },
+  {
+    "service": "Half Front Chocolate Wax",
+    "description": "Keeps skin glowing, soft and silky",
+    "rate": 199
+  },
+  {
+    "service": "Half Back Chocolate Wax",
+    "description": "Energizes, revitalizes, nourishes and moisturizes the skin",
+    "rate": 199
+  },
+  {
+    "service": "Side Look Chocolate Wax",
+    "description": "Melts easily, spreads evenly, pulls off hair painlessly.",
+    "rate": 49
+  },
+  {
+    "service": "Bikini Wax Chocolate Wax",
+    "description": "Easy and long lasting",
+    "rate": 699
+  },
+  {
+    "service": "Full Body (With Bikini) Chocolate Wax",
+    "description": "A smooth waxing experience",
+    "rate": 1499
+  },
+  {
+    "service": "Full Body (No Bikini) Chocolate Wax",
+    "description": "Clean and elegant wax",
+    "rate": 999
+  }
+]

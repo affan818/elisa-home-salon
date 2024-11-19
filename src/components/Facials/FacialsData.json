@@ -1,0 +1,77 @@
+[
+  {
+    "service": "Mix Fruit Facial",
+    "description": "A very good detoxifying process",
+    "rate": 500
+  },
+  {
+    "service": "Lotus Skin Whitening Facial",
+    "description": "Helps in lightening and cleansing the skin naturally",
+    "rate": 1200
+  },
+  {
+    "service": "Lotus Herbal Facial",
+    "description": "Protect the skin from harmful effects of sun damage",
+    "rate": 1100
+  },
+  {
+    "service": "VLCC Insta Glow Facial",
+    "description": "Helps in clearing out all things dirt under the skin",
+    "rate": 900
+  },
+  {
+    "service": "VLCC Skin Tightening Facial",
+    "description": "Helps you rejuvenate your skin and give it the tightening lift",
+    "rate": 800
+  },
+  {
+    "service": "VLCC Gold Facial",
+    "description": "Gives your skin an instant glow and hydration",
+    "rate": 1000
+  },
+  {
+    "service": "VLCC Diamond Facial",
+    "description": "Nourishes dry & patchy skin.",
+    "rate": 900
+  },
+  {
+    "service": "VLCC Pearl Facial",
+    "description": "Encourages skin cell regeneration",
+    "rate": 800
+  },
+  {
+    "service": "RichFeel Whitening Facial",
+    "description": "Best for tan removal and skin lightening",
+    "rate": 900
+  },
+  {
+    "service": "Vitamin C Facial",
+    "description": "Protects collagen and increases production",
+    "rate": 1150
+  },
+  {
+    "service": "O3+ Shine and Glow Facial",
+    "description": "Oxygenates skin tissues",
+    "rate": 1500
+  },
+  {
+    "service": "O3+ Bridal Facial",
+    "description": "Delivers instant brightening",
+    "rate": 1700
+  },
+  {
+    "service": "Anti-Aging Facial With Moroccan Oil",
+    "description": "Accelerates repair and smoothens lines",
+    "rate": 1200
+  },
+  {
+    "service": "Hydra-boost Facial",
+    "description": "Go-to solution for dehydrated and slightly irritated skin",
+    "rate": 2500
+  },
+  {
+    "service": "Korean Glass Luxury Facial (10 Steps)",
+    "description": "Visibly energizes dull and lifeless skin",
+    "rate": 2500
+  }
+]

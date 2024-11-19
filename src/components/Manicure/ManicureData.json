@@ -1,0 +1,27 @@
+[
+  {
+    "service": "VLCC Manicure",
+    "description": "Offers you skin purification and a sparkling finish",
+    "rate": 499
+  },
+  {
+    "service": "Regular Manicure",
+    "description": "Shaping the free edge of nails, clipping non-living tissues at the cuticle",
+    "rate": 300
+  },
+  {
+    "service": "D-Tan Manicure",
+    "description": "Effectively helps in removing tan from your hands and feet",
+    "rate": 399
+  },
+  {
+    "service": "Basic Cut, File & Polish",
+    "description": "Shape uneven nails.",
+    "rate": 149
+  },
+  {
+    "service": "Deluxe Manicure",
+    "description": "Premium exfoliants to get rid of accumulated dead skin cells on your hands",
+    "rate": 599
+  }
+]

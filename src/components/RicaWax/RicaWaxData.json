@@ -1,0 +1,77 @@
+[
+  {
+    "service": "Upperlip Rica Wax",
+    "description": "Designed to be gentle on the skin and can be used on the upper lip, chin, and jawline",
+    "rate": 99
+  },
+  {
+    "service": "Underarms Rica Wax",
+    "description": "Underarm waxing with Rica wax can provide smoother and longer-lasting results",
+    "rate": 299
+  },
+  {
+    "service": "Full Face Rica Wax",
+    "description": "Energizes, revitalizes, nourishes and moisturizes the skin.",
+    "rate": 399
+  },
+  {
+    "service": "Full Hands (With Underarms) Rica Wax",
+    "description": "Superior Hair Removal without Irritation & Allergens",
+    "rate": 499
+  },
+  {
+    "service": "Full Legs Rica Wax",
+    "description": "A waxing treatment that removes hair from the top of the thighs to the base of the ankles, front and back",
+    "rate": 399
+  },
+  {
+    "service": "Full Front Rica Wax",
+    "description": "Italian-formulated liposoluble wax to remove hair from the front of the body",
+    "rate": 399
+  },
+  {
+    "service": "Full Back Rica Wax",
+    "description": "A hair removal treatment that covers the area from the t-shirt line to the waist",
+    "rate": 399
+  },
+  {
+    "service": "Full Front + Full Back Rica Wax",
+    "description": "A waxing service that removes hair from the front and back of the body using an Italian-formulated liposoluble wax",
+    "rate": 699
+  },
+  {
+    "service": "Half Leg Rica Wax",
+    "description": "Hair removal treatment that uses an Italian wax to remove hair from the ankles to above the knees or from the thighs to above the knees",
+    "rate": 399
+  },
+  {
+    "service": "Side Look Rica Wax",
+    "description": "Hair removal product known for its natural ingredients and gentle formula",
+    "rate": 99
+  },
+  {
+    "service": "Bikini Wax (Full Bikini + Bikini Line) Rica Wax",
+    "description": "Less painful application hygienic and easy to apply",
+    "rate": 999
+  },
+  {
+    "service": "Full Body (No Bikini) Rica Wax",
+    "description": "An advanced wax which removes tan, leaves your skin with a smooth finish",
+    "rate": 1599
+  },
+  {
+    "service": "Full Body (With Bikini) Rica Wax",
+    "description": "Italian-formulated liposoluble wax to remove unwanted hair, tan, and slow hair regrowth",
+    "rate": 1999
+  },
+  {
+    "service": "Chin Rica Wax",
+    "description": "Long lasting result and the best care of your face.",
+    "rate": 99
+  },
+  {
+    "service": "Stomach Rica Wax",
+    "description": "Stomach Rica Waxing​​ recommended for sensitive skin",
+    "rate": 349
+  }
+]

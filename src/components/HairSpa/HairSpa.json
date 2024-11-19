@@ -1,0 +1,57 @@
+[
+  {
+    "service": "Hair Spa (Shoulder Length)",
+    "description": "For the rejuvenation and strengthening of your hair",
+    "rate": 649
+  },
+  {
+    "service": "Hair Spa (Below Waist)",
+    "description": "Deeply nourish the scalp and hair follicles.",
+    "rate": 1499
+  },
+  {
+    "service": "Keratin Hair Spa",
+    "description": "Keratin treatments help smooth hair cuticles, giving hair a shinier appearance.",
+    "rate": 799
+  },
+  {
+    "service": "Hair Spa (Below Shoulder)",
+    "description": "Deep conditioning to nourish and moisturize the hair from root to tip",
+    "rate": 999
+  },
+  {
+    "service": "Anti-Hairfall Treatment",
+    "description": "Scalp treatment in the form of sprays, oils, and scrubs gives clean hair.",
+    "rate": 799
+  },
+  {
+    "service": "Smoothening (Up To Shoulder)",
+    "description": "A process that tames frizz and enhances shine",
+    "rate": 3499
+  },
+  {
+    "service": "Anti-Dandruff Treatment",
+    "description": "Exfoliate your scalp and cleanse it, so as to reduce dandruff",
+    "rate": 1199
+  },
+  {
+    "service": "Kerastraight (Any Length)",
+    "description": "A semi-permanent straightening and repair system which provides strength and shine.",
+    "rate": 4999
+  },
+  {
+    "service": "Keratin Treatment (Shoulder Length)",
+    "description": "Eliminates frizz, increases manageability and repairs damage",
+    "rate": 2999
+  },
+  {
+    "service": "Botox Treatment (Shoulder Length)",
+    "description": "Anti-ageing hair treatment that helps rejuvenate damaged hair",
+    "rate": 4999
+  },
+  {
+    "service": "Nanoplastia",
+    "description": "A nutrient based system that will repair damaged hair with a hair fibre coating filled with vitamins and nutrients",
+    "rate": 2999
+  }
+]

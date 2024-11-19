@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import logo from "../../assets/Elisa_Home_Salon_Logo.png";
+import logo from "../../assets/Logo.png";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -12,7 +12,7 @@ export default function Header() {
       <nav className="bg-gradient-to-r from-[#FFDEE9] via-[#B5FFFC] to-[#FFAFBD] bg-opacity-95 border-gray-200 px-4 lg:px-6 py-3 transition-all duration-300">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <Link to="/" className="flex items-center">
-            <img src={logo} className="mr-3 h-20" alt="Logo" />
+            <img src={logo} className="mr-3 h-24" alt="Logo" />
           </Link>
 
           {/* Mobile menu toggle button */}

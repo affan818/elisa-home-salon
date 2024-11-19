@@ -1,0 +1,95 @@
+/* Luxurious Checkbox */
+.luxurious-checkbox {
+  position: relative;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.luxurious-checkbox input {
+  display: none;
+}
+
+.luxurious-checkbox .checkbox-circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(145deg, #faf3e0, #fff); /* Matches card theme */
+  border: 2px solid #d4af37; /* Gold border */
+  border-radius: 50%; /* Circle */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.luxurious-checkbox input:checked + .checkbox-circle {
+  background: linear-gradient(to right, #d4af37, #b8860b); /* Gold gradient */
+  box-shadow: 0 0 8px #d4af37, 0 0 15px #b8860b; /* Luxurious glow */
+}
+
+.luxurious-checkbox input:checked + .checkbox-circle::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 12px;
+  height: 12px;
+  background: #fff; /* White tick */
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.luxurious-checkbox .checkbox-circle:hover {
+  transform: scale(1.1); /* Slight scaling */
+  box-shadow: 0 0 6px #d4af37; /* Subtle glow on hover */
+}
+
+/* Select button styling */
+button {
+  position: relative;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+/* Default button state */
+button.bg-transparent {
+  background: transparent;
+  border: 2px solid #d4af37; /* Gold border */
+  color: #d4af37; /* Gold text */
+}
+
+/* Hover effect for Select button */
+button.bg-transparent:hover {
+  background: linear-gradient(to right, #d4af37, #b29600); /* Gold gradient */
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button after being selected */
+button.bg-gradient-to-r {
+  background: linear-gradient(to right, #d4af37, #b29600); /* Gold gradient */
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+button.bg-gradient-to-r:hover {
+  background: linear-gradient(
+    to right,
+    #b29600,
+    #d4af37
+  ); /* Slight variation for hover */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Focus styles for accessibility */
+button:focus {
+  outline: none;
+  border: 2px solid #d4af37; /* Focus outline in gold */
+  box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.5);
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "service": "Hair Color (Up To Shoulder Only Application)",
+    "description": "Coating each strand with color up to shoulder length",
+    "rate": 199
+  },
+  {
+    "service": "Henna Application",
+    "description": "Bring back lost health of your hair and repairs damaged locks",
+    "rate": 599
+  },
+  {
+    "service": "Root Touch-Up",
+    "description": "Applying hair color to the roots of the hair to make the hair color look more uniform",
+    "rate": 499
+  },
+  {
+    "service": "Global Hair Color (Up To Waist Only Application)",
+    "description": "Covers your hair from root to tip in the same color",
+    "rate": 599
+  },
+  {
+    "service": "Root Touch-Up (INOA)",
+    "description": "A permanent hair dye that provides natural-looking results and long-lasting shine",
+    "rate": 899
+  },
+  {
+    "service": "OMBRE Hair Color",
+    "description": "A hair coloring technique that creates a gradual transition from a darker color at the roots to a lighter color at the ends",
+    "rate": 2499
+  },
+  {
+    "service": "Global Hair Color (Up To Shoulder)",
+    "description": "A hair coloring process that involves lightening all hair strands up to shoulder length",
+    "rate": 2499
+  },
+  {
+    "service": "Hair Color (Up To Shoulder)",
+    "description": "Hair dyeing up to shoulder length",
+    "rate": 2999
+  },
+  {
+    "service": "Global Highlights (Shoulder To Waist)",
+    "description": "The root area is blended with the lengths",
+    "rate": 4999
+  },
+  {
+    "service": "L'Oréal Global Color (Up To Waist)",
+    "description": "More hydrating and more prismatic with new silk shimmer deep conditioning",
+    "rate": 4999
+  },
+  {
+    "service": "Global Highlights (Any Length)",
+    "description": "A hair coloring technique that can be applied to hair of any length",
+    "rate": 5999
+  },
+  {
+    "service": "Global Highlights (Below Waist)",
+    "description": "Highlights below waist length",
+    "rate": 5499
+  }
+]

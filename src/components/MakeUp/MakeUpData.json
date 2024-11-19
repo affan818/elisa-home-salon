@@ -1,0 +1,42 @@
+[
+  {
+    "service": "Saree Drapping",
+    "description": "Different types of drapes",
+    "rate": 299
+  },
+  {
+    "service": "Only Make-Up (Crylon)",
+    "description": "Professional makeup with branded products",
+    "rate": 1499
+  },
+  {
+    "service": "Light Make-Up",
+    "description": "A subtle, natural look that's fresh and not overdone",
+    "rate": 1199
+  },
+  {
+    "service": "Light Make-Up + Hairstyle + Saree Drapping",
+    "description": "Subtle makeup with an elegant hairstyle and saree drape",
+    "rate": 2499
+  },
+  {
+    "service": "Party Make-Up + Hairstyle + Saree Drapping",
+    "description": "A step above the regular makeup you do every day plus an elegant hairstyle and saree draping",
+    "rate": 2999
+  },
+  {
+    "service": "Bridal Make-Up + Saree / Lehenga Drapping",
+    "description": "Full coverage and long-lasting products",
+    "rate": "-"
+  },
+  {
+    "service": "Bridal Mehandi Art Services",
+    "description": "Mehndi on full arms and half legs of the bride",
+    "rate": "5999 (starting)"
+  },
+  {
+    "service": "Bridal Mehandi (Full Arm)",
+    "description": "Full arms mehndi",
+    "rate": 4999
+  }
+]

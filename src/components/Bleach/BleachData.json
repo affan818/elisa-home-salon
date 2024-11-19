@@ -1,0 +1,47 @@
+[
+  {
+    "service": "Underarms Bleach",
+    "description": "Cures hyperpigmentation",
+    "rate": 79
+  },
+  {
+    "service": "Half Hands Bleach",
+    "description": "Lightens hair for a subtle and uniform complexion.",
+    "rate": 149
+  },
+  {
+    "service": "Face + Neck Bleach",
+    "description": "Minimizes dark spots",
+    "rate": 249
+  },
+  {
+    "service": "Full Hands + Underarms Bleach",
+    "description": "Gives naturally radiant skin instantly",
+    "rate": 299
+  },
+  {
+    "service": "Full Legs Bleach",
+    "description": "Evens out the skin tone",
+    "rate": 449
+  },
+  {
+    "service": "Full Front Bleach",
+    "description": "Lightens skin tone and makes it look brighter.",
+    "rate": 349
+  },
+  {
+    "service": "Full Back Bleach",
+    "description": "Removes dull and dead skin cells.",
+    "rate": 349
+  },
+  {
+    "service": "Full Hands + Full Legs + Underarms Bleach",
+    "description": "Gently correct uneven skin tones",
+    "rate": 549
+  },
+  {
+    "service": "Full Body Bleach",
+    "description": "Reduces dark spots on the skin",
+    "rate": 1199
+  }
+]

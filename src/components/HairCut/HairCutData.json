@@ -1,0 +1,32 @@
+[
+  {
+    "service": "Trimming",
+    "description": "Cutting the ends of hair in a straight line to maintain a style or shape",
+    "rate": 99
+  },
+  {
+    "service": "Normal Haircut",
+    "description": "Taper cut, regular taper cut, side-part and standard haircut; as well as short back and sides, business-man cut and professional cut",
+    "rate": 399
+  },
+  {
+    "service": "Layer Cut",
+    "description": "A striking contrast, with the sharp, defined bangs balanced by the soft, flowing layers",
+    "rate": 499
+  },
+  {
+    "service": "Step Cut",
+    "description": "A precise, defined separation between each layer—or step",
+    "rate": 599
+  },
+  {
+    "service": "Feather Cut",
+    "description": "Make hair look layered, softer, and feather-like.",
+    "rate": 699
+  },
+  {
+    "service": "90 Degree Haircut",
+    "description": "The 90-degree angle creates layers as the hair falls back into place",
+    "rate": 699
+  }
+]

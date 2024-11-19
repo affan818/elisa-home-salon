@@ -6,7 +6,7 @@ function ContactForm() {
     email: "",
     address: "",
     selectedServices: {},
-    timing: "",
+    timing: "", // This will store the selected date and time
   });
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
@@ -58,11 +58,11 @@ function ContactForm() {
     const whatsappMessage = `Hello, I'm interested in the following services:
     - Name: ${name}
     - Email: ${email}
-    -Address:${address}
+    - Address: ${address}
     - Services: ${selectedServiceList.join(", ")}
-    - Timing: ${timing}`;
+    - Date & Time: ${timing}`;
 
-    const whatsappUrl = `https://wa.me/9022755384?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/9324037029?text=${encodeURIComponent(
       whatsappMessage
     )}`;
     window.open(whatsappUrl, "_blank");
@@ -171,18 +171,17 @@ function ContactForm() {
           htmlFor="timing"
           className="block text-lg font-semibold text-[#2E2C29] mb-2"
         >
-          Give Date & Time
+          Select Date & Time
         </label>
-        <textarea
+        <input
+          type="datetime-local"
           id="timing"
           name="timing"
-          value={formData.message}
+          value={formData.timing}
           onChange={handleChange}
-          placeholder="Write your Date & Time Here"
-          rows="5"
           className="w-full p-4 rounded-xl border-2 border-[#ddd] bg-transparent focus:border-[#FF6F61] focus:ring-2 focus:ring-[#FF6F61] shadow-md text-[#2E2C29] text-lg"
           required
-        ></textarea>
+        />
       </div>
 
       {/* Submit Button */}

@@ -1,0 +1,37 @@
+[
+  {
+    "service": "Recreating Hairstyle",
+    "description": "Recreating old and original hairstyles",
+    "rate": 599
+  },
+  {
+    "service": "Blow Dry (Below Shoulder)",
+    "description": "Quick and effective way to style hair by adding volume and shine",
+    "rate": 399
+  },
+  {
+    "service": "Ironing (Below Shoulder)",
+    "description": "For perfect hair finish",
+    "rate": 499
+  },
+  {
+    "service": "Ironing (Up To Shoulder)",
+    "description": "For chic bouncy hair",
+    "rate": 399
+  },
+  {
+    "service": "Blow Dry (Up To Waist)",
+    "description": "For a smoother bouncy texture",
+    "rate": 399
+  },
+  {
+    "service": "Ironing (Up To Waist)",
+    "description": "For smooth and straight locks",
+    "rate": 999
+  },
+  {
+    "service": "Hairstyle",
+    "description": "",
+    "rate": 599
+  }
+]

@@ -19,10 +19,7 @@ export default function Home() {
               services designed exclusively for you.
             </p>
             <Link to="/about">
-              <button
-                className="inline-flex items-center px-8 py-4 text-white bg-[#1A237E] rounded-full hover:bg-[#0d1b56] focus:ring-4 focus:ring-[#1A237E] transition-all transform hover:scale-105 shadow-2xl"
-          
-              >
+              <button className="inline-flex items-center px-8 py-4 text-white bg-[#1A237E] rounded-full hover:bg-[#0d1b56] focus:ring-4 focus:ring-[#1A237E] transition-all transform hover:scale-105 shadow-2xl">
                 Know More About Us
                 <svg
                   className="w-5 h-5 ml-3 -mr-1"
@@ -51,24 +48,21 @@ export default function Home() {
         </div>
       </section>
 
-      <div className="py-16 px-8 rounded-3xl shadow-2xl">
-        <div className="max-w-screen-xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div className="py-16 px-8 shadow-2xl">
+        <div className="relative max-w-screen-xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center px-6 lg:px-16 py-12">
           {/* Column 1: Text and Button */}
-          <div className="flex flex-col justify-center space-y-6">
-            <h2 className="text-4xl md:text-5xl font-bold text-[#FF6F61] leading-snug tracking-wide">
-              Transform Your Look with Our Expert Makeup Services
+          <div className="flex flex-col justify-center space-y-8 text-center lg:text-left">
+            <h2 className="text-4xl lg:text-5xl font-extrabold text-[#FF6F61] leading-tight tracking-wide drop-shadow-md">
+              Discover Your Best Look with Our Expertise
             </h2>
-            <p className="text-[#36454F] text-lg lg:text-xl leading-relaxed max-w-md">
-              Our skilled makeup artists enhance your natural beauty with
-              precision and elegance, tailored to your preferences. Book now and
-              feel the transformation.
+            <p className="text-[#36454F] text-lg lg:text-xl leading-relaxed tracking-wide">
+              Let our skilled artists create a timeless look tailored to your
+              style. Experience unparalleled luxury and transformation with
+              every service.
             </p>
             <Link to="/services">
-              <button
-                className="inline-flex items-center px-8 py-4 text-white bg-[#1A237E] rounded-full hover:bg-[#0d1b56] focus:ring-4 focus:ring-[#1A237E] transition-all transform hover:scale-105 shadow-2xl"
-               
-              >
-                Our Services
+              <button className="inline-flex items-center px-10 py-4 text-lg font-medium text-white bg-[#1A237E] rounded-full hover:bg-[#0d1b56] focus:ring-4 focus:ring-[#FF6F61] transition-all shadow-xl">
+                Explore Services
                 <svg
                   className="w-5 h-5 ml-3 -mr-1"
                   fill="currentColor"
@@ -85,19 +79,29 @@ export default function Home() {
             </Link>
           </div>
 
-          {/* Column 2: Single Centered Image with Styling */}
-          <div className="flex justify-center items-center">
-            <div className="relative rounded-full overflow-hidden shadow-xl transform hover:scale-110 transition-transform duration-500">
-              <img
-                src="https://images.pexels.com/photos/1523528/pexels-photo-1523528.jpeg?auto=compress&cs=tinysrgb&w=600"
-                alt="Makeup"
-                className="w-[350px] h-[350px] object-cover rounded-full"
-              />
-              {/* Optional Decorative Overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-[#FF6F61] opacity-40 rounded-full"></div>
+          {/* Column 2: Professional Image Styling */}
+          <div className="relative flex justify-center items-center">
+            {/* Outer Decorative Frame */}
+            <div className="relative flex justify-center items-center">
+              <div className="relative overflow-hidden rounded-[30px] shadow-2xl">
+                <img
+                  src="https://png.pngtree.com/png-vector/20230928/ourmid/pngtree-lady-putting-on-makeup-png-image_10149320.png"
+                  alt="Makeup"
+                  className="w-[350px] h-[450px] lg:w-[400px] lg:h-[500px] object-cover rounded-[30px]"
+                />
+              </div>
+
+              {/* Accent Elements */}
+              <div className="absolute -top-16 -left-16 w-48 h-48 bg-gradient-to-br from-[#FF6F61] to-[#FFDAB9] rounded-full blur-[80px] opacity-30"></div>
+              <div className="absolute -bottom-16 -right-16 w-64 h-64 bg-gradient-to-br from-[#FFDAB9] to-[#FFEFE5] rounded-full blur-[100px] opacity-40"></div>
             </div>
+
+            {/* Accent Elements */}
+            <div className="absolute top-[-50px] left-[-50px] w-32 h-32 bg-gradient-to-br from-[#FF6F61] to-[#FFDAB9] rounded-full blur-lg opacity-40"></div>
+            <div className="absolute bottom-[-60px] right-[-60px] w-40 h-40 bg-gradient-to-br from-[#FFDAB9] to-[#FFEFE5] rounded-full blur-lg opacity-30"></div>
           </div>
         </div>
+
         <OurWork />
       </div>
     </>

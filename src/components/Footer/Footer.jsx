@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../../assets/Elisa_Home_Salon_Logo.png";
+import logo from "../../assets/Logo.png";
 import "./footer.css";
 import { FaFacebook, FaInstagram } from "react-icons/fa";
 
