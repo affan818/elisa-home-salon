@@ -5,73 +5,88 @@
     "rate": 500
   },
   {
-    "service": "Lotus Skin Whitening Facial",
+    "service": "Lotus Gold Facial",
     "description": "Helps in lightening and cleansing the skin naturally",
-    "rate": 1200
+    "rate": 1099
+  },
+  {
+    "service": "Lotus Skin Whitening Facial",
+    "description": "Protects the skin from harmful effects of sun damage",
+    "rate": 899
   },
   {
     "service": "Lotus Herbal Facial",
-    "description": "Protect the skin from harmful effects of sun damage",
-    "rate": 1100
+    "description": "Helps in clearing out all things dirt under the skin",
+    "rate": 899
   },
   {
     "service": "VLCC Insta Glow Facial",
-    "description": "Helps in clearing out all things dirt under the skin",
-    "rate": 900
+    "description": "Helps you rejuvenate your skin and give it the tightening lift",
+    "rate": 799
   },
   {
     "service": "VLCC Skin Tightening Facial",
-    "description": "Helps you rejuvenate your skin and give it the tightening lift",
-    "rate": 800
+    "description": "Gives your skin an instant glow and hydration",
+    "rate": 799
   },
   {
     "service": "VLCC Gold Facial",
-    "description": "Gives your skin an instant glow and hydration",
-    "rate": 1000
+    "description": "Nourishes dry & patchy skin",
+    "rate": 899
   },
   {
     "service": "VLCC Diamond Facial",
-    "description": "Nourishes dry & patchy skin.",
-    "rate": 900
+    "description": "Encourages skin cell regeneration",
+    "rate": 899
   },
   {
     "service": "VLCC Pearl Facial",
-    "description": "Encourages skin cell regeneration",
+    "description": "Best for tan removal and skin lightening",
     "rate": 800
   },
   {
     "service": "RichFeel Whitening Facial",
-    "description": "Best for tan removal and skin lightening",
+    "description": "Protects collagen and increases production",
     "rate": 900
   },
   {
     "service": "Vitamin C Facial",
-    "description": "Protects collagen and increases production",
-    "rate": 1150
+    "description": "Oxygenates skin tissues",
+    "rate": 999
   },
   {
-    "service": "O3+ Shine and Glow Facial",
-    "description": "Oxygenates skin tissues",
+    "service": "Glutathione L Facial",
+    "description": "Delivers instant brightening",
+    "rate": 999
+  },
+  {
+    "service": "Skin Whitening Facial",
+    "description": "Accelerates repair and smoothens lines",
+    "rate": 899
+  },
+  {
+    "service": "03+ Shine and Glow Facial",
+    "description": "Go-to solution for dehydrated and slightly irritated skin",
     "rate": 1500
   },
   {
-    "service": "O3+ Bridal Facial",
-    "description": "Delivers instant brightening",
+    "service": "03+ Bridal Facial",
+    "description": "Visibly energizes dull and lifeless skin",
     "rate": 1700
   },
   {
     "service": "Anti-Aging Facial With Moroccan Oil",
-    "description": "Accelerates repair and smoothens lines",
+    "description": "Removes impurities from dirt-clogged pores. Tightens and lifts the skin",
     "rate": 1200
   },
   {
     "service": "Hydra-boost Facial",
-    "description": "Go-to solution for dehydrated and slightly irritated skin",
+    "description": "It hydrates the skin and reduces the appearance of fine lines and wrinkles",
     "rate": 2500
   },
   {
     "service": "Korean Glass Luxury Facial (10 Steps)",
-    "description": "Visibly energizes dull and lifeless skin",
-    "rate": 2500
+    "description": "This kit is meticulously crafted to provide a luminous and clear complexion",
+    "rate": 2800
   }
 ]
