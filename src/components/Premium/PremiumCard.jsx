@@ -6,7 +6,7 @@ function PremiumCard({ title, list, price }) {
 
   // Function to handle the "Book Now" button click
   const handleWhatsAppSubmit = () => {
-    const phoneNumber = "9022755384"; // Replace with your WhatsApp number including the country code (without +)
+    const phoneNumber = "9324037029"; // Replace with your WhatsApp number including the country code (without +)
     const message = `
       *I Want to Book*
       

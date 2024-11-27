@@ -6,22 +6,20 @@ function RicaCard({ onSelect }) {
       {data.map((card) => (
         <div
           key={card.id}
-          className="relative max-w-sm p-6 bg-gradient-to-r from-coral via-soft-cream to-navy-blue border border-navy-blue rounded-lg shadow-lg overflow-hidden"
+          className="relative max-w-sm p-6 bg-gradient-to-r  rounded-lg shadow-lg overflow-hidden"
         >
           {/* Optional Overlay for effect */}
-          <div className="absolute inset-0 bg-navy-blue bg-opacity-30"></div>
+          <div className="absolute inset-0  bg-opacity-30"></div>
 
           {/* Content */}
           <div className="relative z-10">
             <a href="#">
-              <h5 className="mb-2 text-2xl font-bold tracking-wide text-soft-cream">
+              <h5 className="mb-2 text-2xl font-bold tracking-wide text-black">
                 {card.service}
               </h5>
             </a>
-            <p className="mb-3 font-normal text-soft-cream">
-              {card.description}
-            </p>
-            <h5 className="mb-2 text-2xl font-bold tracking-wide text-soft-cream">
+            <p className="mb-3 font-normal text-black">{card.description}</p>
+            <h5 className="mb-2 text-2xl font-bold tracking-wide text-black">
               ₹ {card.rate}
             </h5>
 
