@@ -1,0 +1,12 @@
+.shimmer-text {
+  background: linear-gradient(90deg, #ff6f61, #fff7e6, #ff6f61);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: shimmer 2s infinite linear;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #ff6f61, #fff7e6);
+  -webkit-background-clip: text;
+  color: transparent;
+}

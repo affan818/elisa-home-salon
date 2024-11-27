@@ -1,7 +1,28 @@
 import { Link } from "react-router-dom";
 import OurWork from "../OurWork/OurWork";
+import Badge from "../Badges/Badge";
+import PremiumCard from "../Premium/PremiumCard";
 
 export default function Home() {
+  const preBridalPkg = [
+    "Facial (Hydraboost / Korean Glass)",
+    "Gold bleach",
+    "Full body polishing",
+    " Full body bleach",
+    "Full body waxing (Rica)",
+    "Professional manicure",
+    "Professional pedicure",
+    "L'oreal hair spa",
+  ];
+  const premiumPkg = [
+    "Chocolate wax Full hands",
+    "Half legs Underarms",
+    "VLCC Facial",
+    "Threading Eyebrows",
+    "Upperlips",
+  ];
+
+  const thirdPkg = ["Manicure", "Pedicure", "Facial", "Threading"];
   return (
     <>
       <section
@@ -100,6 +121,39 @@ export default function Home() {
             <div className="absolute top-[-50px] left-[-50px] w-32 h-32 bg-gradient-to-br from-[#FF6F61] to-[#FFDAB9] rounded-full blur-lg opacity-40"></div>
             <div className="absolute bottom-[-60px] right-[-60px] w-40 h-40 bg-gradient-to-br from-[#FFDAB9] to-[#FFEFE5] rounded-full blur-lg opacity-30"></div>
           </div>
+        </div>
+        <Badge />
+        <div className="flex flex-wrap justify-center gap-6">
+          <PremiumCard
+            title="PREMIUM BRIDAL PACKAGE"
+            list={preBridalPkg}
+            price="899"
+          />
+          <PremiumCard
+            title="PREMIUM HAIR REMOVAL PACKAGE"
+            list={premiumPkg}
+            price="1499"
+          />
+          <PremiumCard title="PAMPER YOURSELF" list={thirdPkg} price="1440" />
+        </div>
+        <div className="flex justify-center">
+          <Link to="/services">
+            <button className="inline-flex items-center px-10 py-4 text-lg font-medium text-white bg-[#FF6F61] rounded-full hover:bg-[#fa4d3d] transition-all shadow-xl">
+              Explore More
+              <svg
+                className="w-5 h-5 ml-3 -mr-1"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </button>
+          </Link>
         </div>
 
         <OurWork />

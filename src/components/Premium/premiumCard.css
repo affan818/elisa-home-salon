@@ -1,0 +1,30 @@
+/* Customize scrollbar for the entire content */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+  height: 12px; /* Height of the scrollbar (for horizontal scroll) */
+}
+
+/* Customize the scrollbar track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+  background: #f9f9f9; /* Soft Cream color for the track */
+  border-radius: 8px; /* Rounded corners for the track */
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1); /* Light shadow effect for depth */
+}
+
+/* Customize the scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #ff6f61; /* Coral color for the thumb */
+  border-radius: 8px; /* Rounded thumb */
+  border: 4px solid #f9f9f9; /* Soft Cream border to match the track */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition on hover */
+}
+
+/* Change the thumb color on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #9b3d36; /* Darker Coral color on hover */
+  transform: scale(1.1); /* Slight scale-up effect for hover */
+}
+
+/* For Firefox - Customize scrollbar */
+scrollbar-width: thin;
+scrollbar-color: #ff6f61 #f9f9f9; /* Coral thumb and Soft Cream track */
