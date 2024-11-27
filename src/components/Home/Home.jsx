@@ -8,7 +8,7 @@ export default function Home() {
     "Facial (Hydraboost / Korean Glass)",
     "Gold bleach",
     "Full body polishing",
-    " Full body bleach",
+    "Full body bleach",
     "Full body waxing (Rica)",
     "Professional manicure",
     "Professional pedicure",
@@ -16,7 +16,7 @@ export default function Home() {
   ];
   const premiumPkg = [
     "Chocolate wax Full hands",
-    "Half legs Underarms",
+    "Half legs",
     "VLCC Facial",
     "Threading Eyebrows",
     "Upperlips",
@@ -127,7 +127,7 @@ export default function Home() {
           <PremiumCard
             title="PREMIUM BRIDAL PACKAGE"
             list={preBridalPkg}
-            price="899"
+            price="8999"
           />
           <PremiumCard
             title="PREMIUM HAIR REMOVAL PACKAGE"
