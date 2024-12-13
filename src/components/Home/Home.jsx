@@ -15,7 +15,7 @@ export default function Home() {
     "L'oreal hair spa",
   ];
   const premiumPkg = [
-    "Chocolate wax Full hands",
+    "Chocolate wax full arms + UA",
     "Half legs",
     "VLCC Facial",
     "Threading Eyebrows",
@@ -129,11 +129,11 @@ export default function Home() {
             list={preBridalPkg}
             price="8999"
           />
-          <PremiumCard
+          {/* <PremiumCard
             title="PREMIUM HAIR REMOVAL PACKAGE"
             list={premiumPkg}
             price="1499"
-          />
+          /> */}
           <PremiumCard title="PAMPER YOURSELF" list={thirdPkg} price="1440" />
         </div>
         <div className="flex justify-center">
